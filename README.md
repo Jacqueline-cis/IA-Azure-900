@@ -25,14 +25,14 @@ Para este módulo haremos uso de los Jupyter Notebooks.
 
 * Configuramos los clusters de cómputo
     * Navegamos a Azure ML **Compute** 
-    * ![](../images/ml1.png)
+    * ![](https://github.com/FernandaOchoa/AI-Fundamentals-Azure/raw/master/images/ml1.png)
     * Clic en **New Compute**
-    * ![](../images/ml2.png)
+    * ![](https://github.com/FernandaOchoa/AI-Fundamentals-Azure/blob/master/images/ml2.png)
     * Seleccionamos el tamaño de la VM y damos clic en **create**
-    * ![](../images/ml3.png)
+    * ![](https://github.com/FernandaOchoa/AI-Fundamentals-Azure/blob/master/images/ml3.png?raw=true)
 
 * Creamos un nuevo cuaderno
-    * ![](../images/ml4.gif)
+    * ![](https://github.com/FernandaOchoa/AI-Fundamentals-Azure/raw/master/images/ml4.gif)
     
 Ahora tenemos listo nuestro entorno de trabajo.
 
