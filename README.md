@@ -21,7 +21,7 @@ Para este módulo haremos uso de los Jupyter Notebooks.
 * Una vez configurado, seleccionamos **Revisar y Crear**
 * Para ver el recurso, seleccione **Ir al Recurso**
 * Del portal del espacio de trabajo, seleccione **Launch Studio** para ir al Azure Machine Learning Studio.
-    * ![](../images/ml0.gif)
+    * ![](https://github.com/FernandaOchoa/AI-Fundamentals-Azure/raw/master/images/ml0.gif)
 
 * Configuramos los clusters de cómputo
     * Navegamos a Azure ML **Compute** 
